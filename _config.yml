@@ -6,6 +6,8 @@ github_username: react-native-material-design
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
 
 sidebar:
   - title: Getting Started
@@ -60,8 +62,6 @@ sidebar:
         url: /api/primary
       - name: PRIMARY_COLORS
         url: /api/primary_colors
-      - name: THEME_NAME
-        url: /api/theme_name
       - name: THEME_NAME
         url: /api/theme_name
   - title: External

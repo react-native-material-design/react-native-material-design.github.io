@@ -208,3 +208,22 @@ pre {
         }
     }
 }
+
+table {
+    width: 100%;
+
+    thead tr th {
+        padding-left: 10px;
+        text-align: left;
+        border-bottom: 1px solid #111111;
+    }
+    tbody td {
+        font-size: 14px;
+        padding: 5px 20px;
+
+        em {
+            padding-left: 5px;
+            font-size: 90%;
+        }
+    }
+}

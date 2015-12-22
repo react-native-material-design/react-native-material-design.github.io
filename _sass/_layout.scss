@@ -62,5 +62,19 @@
 		top: 81px;
 		margin-left: 225px;
 		padding: 20px;
+
+		h1 {
+			.subheader {
+				padding-left: 25px;
+				line-height: 50px;
+				font-size: 13px;
+				float: right;
+
+				.icon {
+					position: relative;
+					top: -3px;
+				}
+			}
+		}
 	}
 }
