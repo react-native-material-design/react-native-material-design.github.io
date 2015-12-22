@@ -40,4 +40,4 @@ theme | [THEME_NAME](/api/theme_name) |  | false | light
 primary | [PRIMARY_COLORS](/api/primary_colors) |  | false | [PRIMARY](/api/primary)
 onSelect | func | Called when a checkbox item is selected. An array of currently selected items is returned | false |
 checked | array | An array of item values which are checked on component mount | false |
-items <br /> *value* <br /> *label* <br /> *disabled* | array | An array of checkbox objects <br /> *The value of the checkbox returned in the onSelect array* <br /> *The supporting text of the checkbox* <br /> *Whether the checkbox is rendered as disabled. Will not respond to touches* | false |
+items <br /> *value* <br /> *label* <br /> *disabled* | array <br /> *string, number* <br /> *string* <br /> *bool* | An array of checkbox objects <br /> *The value of the checkbox returned in the onSelect array* <br /> *The supporting text of the checkbox* <br /> *Whether the checkbox is rendered as disabled. Will not respond to touches* | false |

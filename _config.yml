@@ -30,8 +30,6 @@ sidebar:
         url: /components/checkbox
       - name: Checkbox Group
         url: /components/checkbox-group
-      - name: Checkbox Group
-        url: /components/checkbox-group
       - name: Drawer
         url: /components/drawer
       - name: Divider
@@ -67,7 +65,7 @@ sidebar:
   - title: External
     items: 
       - name: Github
-        url: http://github.com
+        url: https://github.com/react-native-material-design/react-native-material-design
       - name: Material Design
         url: https://www.google.com/design/spec/material-design/introduction.html
 
