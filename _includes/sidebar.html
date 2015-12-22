@@ -1,0 +1,14 @@
+<div class="sidebar">
+	<ul>
+		{% for list in site.sidebar %}
+			{% if list.title %}
+				<li class="title">{{ list.title }}</li>
+			{% endif %}
+			{% for item in list.items %}
+				<a href="{{ item.url }}">
+					<li class="item">{{ item.name }}</li>
+				</a>
+			{% endfor %}
+		{% endfor %}
+	</ul>
+</div>

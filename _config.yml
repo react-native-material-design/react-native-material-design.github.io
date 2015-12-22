@@ -1,0 +1,76 @@
+title: React Native Material Design
+description: 
+baseurl: ""
+url: "http://react-native-material-design.github.io"
+github_username: react-native-material-design
+
+# Build settings
+markdown: redcarpet
+
+sidebar:
+  - title: Getting Started
+    items: 
+      - name: Welcome
+        url: /
+      - name: Installation
+        url: /installation
+      - name: Contributing
+        url: /contributing
+  - title: Components
+    items: 
+      - name: Avatar
+        url: /components/avatar
+      - name: Button
+        url: /components/button
+      - name: Card
+        url: /components/card
+      - name: Checkbox
+        url: /components/checkbox
+      - name: Checkbox Group
+        url: /components/checkbox-group
+      - name: Checkbox Group
+        url: /components/checkbox-group
+      - name: Drawer
+        url: /components/drawer
+      - name: Divider
+        url: /components/divider
+      - name: Icon
+        url: /components/Icon
+      - name: Icon Button
+        url: /components/icon-button
+      - name: List
+        url: /components/list
+      - name: Radio Button
+        url: /components/radio-button
+      - name: Radio Button Group
+        url: /components/radio-button-group
+      - name: Ripple
+        url: /components/ripple
+      - name: Subheader
+        url: /components/subheader
+      - name: Toolbar
+        url: /components/toolbar
+  - title: API
+    items: 
+      - name: COLOR
+        url: /api/color
+      - name: TYPO
+        url: /api/typo
+      - name: PRIMARY
+        url: /api/primary
+      - name: PRIMARY_COLORS
+        url: /api/primary_colors
+      - name: THEME_NAME
+        url: /api/theme_name
+      - name: THEME_NAME
+        url: /api/theme_name
+  - title: External
+    items: 
+      - name: Github
+        url: http://github.com
+      - name: Material Design
+        url: https://www.google.com/design/spec/material-design/introduction.html
+
+
+
+
