@@ -7,11 +7,11 @@ Welcome to React Native Material Design, an open source project which aims to br
 
 We welcome all pull requests, suggestions, ideas or any constructive feedback! Please visit the [repository](https://github.com/react-native-material-design/react-native-material-design) to get involved.
 
-> These components have only been tested on Android and not iOS. However, you're welcome to have a go if you're into that sort of cross-breeding development.
+> These components have only been **tested on Android** and not iOS. However, you're welcome to have a go if you're into that sort of cross-breeding development.
 
 ## Demo App
 
-The demo app is available here: [https://github.com/react-native-material-design/demo-app](https://github.com/react-native-material-design/demo-app)
+The demo app project is available here: [https://github.com/react-native-material-design/demo-app](https://github.com/react-native-material-design/demo-app)
 
 ## Screenshots
 
