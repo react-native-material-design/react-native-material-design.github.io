@@ -29,3 +29,5 @@ render() {
 Prop | Type | Description | Required | Default
 --- | --- | --- | --- | ---
 inset | bool | Whether to add a left set margin to the divider | false | false
+theme | [THEME_NAME](/api/theme_name) |  | false | light
+style | object | Any additional styles to be rendered | false | 
