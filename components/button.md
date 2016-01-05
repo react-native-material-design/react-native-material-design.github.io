@@ -34,3 +34,4 @@ primary | [PRIMARY_COLORS](/api/primary_colors) |  | false | [PRIMARY](/api/prim
 overrides <br /> *textColor* <br /> *backgroundColor* <br /> *rippleColor* | object <br /> *string* <br /> *string* <br /> *string* | An object to override any colors <br /> *Override the text color of the button* <br /> *Override the background color of the button* <br /> *Override the ripple color of the button* | false <br /><br /><br /><br /> | 
 disabled | bool | Whether to render the button as disabled. This will prevent any onPress props being triggered | false | false
 onPress | func | A function which is called when the touch of the button is released | false | 
+onLongPress | func | A function which is called when the touch of the button is held for a long duration | false | 
