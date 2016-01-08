@@ -11,7 +11,7 @@ The Card component contains subcomponents (Media, Body & Actions) to provide the
 
 ```
 ...
-import { Card } from 'react-native-material-design';
+import { Card, Button } from 'react-native-material-design';
 
 render() {
 	return (
