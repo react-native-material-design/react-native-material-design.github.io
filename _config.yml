@@ -35,7 +35,7 @@ sidebar:
       - name: Divider
         url: /components/divider
       - name: Icon
-        url: /components/Icon
+        url: /components/icon
       - name: Icon Button
         url: /components/icon-button
       - name: List
