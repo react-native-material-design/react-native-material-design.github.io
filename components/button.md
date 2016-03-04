@@ -5,7 +5,7 @@ github: https://github.com/react-native-material-design/react-native-material-de
 google: https://www.google.com/design/spec/components/buttons.html
 ---
 
-The button component renders a touchable button with consumes the full width of it's parent container.
+The button component renders a touchable button with consumes the full width of its parent container.
 
 ## Usage
 
